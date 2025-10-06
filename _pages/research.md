@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: research
-years: [2024, 2023, 2022, 2021, 2020]
+years: [2025, 2024, 2023, 2022, 2021, 2020]
 wp_years: [2024]
 nav: true
 ---
