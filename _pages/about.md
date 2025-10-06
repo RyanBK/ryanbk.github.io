@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome! 
 
-I am an Assistant Professor of Political Science at the [University of Nevada, Reno](https://www.unr.edu/political-science){:target="_blank"}. I received my Ph.D. i 2025 from the [Department of Political Science](https://polisci.ucla.edu/){:target="_blank"} at the University of California, Los Angeles. I spent the 2024-2025 academic year as a Predoctoral Fellow at the [Center for the Study of Democratic Institutions](https://www.vanderbilt.edu/csdi/){:target="_blank"} at Vanderbilt University.  
+I am an Assistant Professor of Political Science at the [University of Nevada, Reno](https://www.unr.edu/political-science){:target="_blank"}. I received my Ph.D. in 2025 from the [Department of Political Science](https://polisci.ucla.edu/){:target="_blank"} at the University of California, Los Angeles, and spent the 2024-2025 academic year as a Predoctoral Fellow at the [Center for the Study of Democratic Institutions](https://www.vanderbilt.edu/csdi/){:target="_blank"} at Vanderbilt University.  
 
 I study how salient events interact with voters’ partisan attachments to shape elections and public opinion in the United States. In particular, my research focuses on those voters who live closest to focusing events, are exposed to salient policy changes, and or whose local communities experience worsening policy outcomes. 
 
