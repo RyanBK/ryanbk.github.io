@@ -63,19 +63,33 @@ if ! git diff-index --quiet HEAD --; then
 fi
 
 # Switch to source branch (creates it if necessary from the current branch)
-if [ `git branch | grep $SRC_BRANCH | tr ' ' '\n' | tail -1` ]
-then
-    git checkout $SRC_BRANCH
+
+# if [ `git branch | grep $SRC_BRANCH | tr ' ' '\n' | tail -1` ]
+# then
+#     git checkout $SRC_BRANCH
+# else
+#     git checkout -b $SRC_BRANCH
+# fi
+
+# Checkout or create SRC_BRANCH
+
+## Added by RBK
+if [ -n "$(git branch | grep -w "$SRC_BRANCH")" ]; then 
+  git checkout "$SRC_BRANCH"
 else
-    git checkout -b $SRC_BRANCH
+  git checkout -b "$SRC_BRANCH"
 fi
 
-# Checkout DEPLOY_BRANCH branch
-if [ `git branch | grep $DEPLOY_BRANCH` ]
-then
-  git branch -D $DEPLOY_BRANCH
-fi
-git checkout -b $DEPLOY_BRANCH
+
+# # Checkout DEPLOY_BRANCH branch
+# if [ `git branch | grep $DEPLOY_BRANCH` ]
+# then
+#   git branch -D $DEPLOY_BRANCH
+# fi
+# git checkout -b $DEPLOY_BRANCH
+
+## Added by RBK
+git checkout -B "$DEPLOY_BRANCH"
 
 # Build site
 bundle exec jekyll build
