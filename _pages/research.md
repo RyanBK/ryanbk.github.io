@@ -2,9 +2,9 @@
 layout: page
 permalink: /research/
 title: research
-years: [2025, 2024, 2023, 2022, 2021, 2020]
-wp_years: [2024]
+years: [2026, 2025, 2024, 2023, 2022, 2021, 2020]
 nav: true
+nav_order: 2
 ---
 
 <h2>Working Papers</h2>
@@ -12,10 +12,7 @@ nav: true
 
 <div class="publications">
 
-{% for x in page.wp_years %}
-  <h2 class="year">{{x}}</h2>
-  {% bibliography -f working_papers -q @*[year={{x}}]* %}
-{% endfor %}
+{% bibliography -f working_papers %}
 
 </div>
 
@@ -29,5 +26,3 @@ nav: true
 {% endfor %}
 
 </div>
-
-

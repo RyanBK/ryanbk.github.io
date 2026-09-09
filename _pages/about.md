@@ -1,28 +1,25 @@
 ---
-layout: about
+layout: page
+permalink: /about/
 title: about
-permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  address:
-
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+nav: true
+nav_order: 4
 ---
 
-Welcome! 
+I live in Reno, Nevada with my two cats, Fiz and Enzo. While I'm originally from Boston, I've had the good fortune to live in cities across the country, including Philadelphia, New York City, Los Angeles, Nashville, and Reno.
 
-I am an Assistant Professor of Political Science at the [University of Nevada, Reno](https://www.unr.edu/political-science){:target="_blank"}. I received my Ph.D. in 2025 from the [Department of Political Science](https://polisci.ucla.edu/){:target="_blank"} at the University of California, Los Angeles, and spent the 2024-2025 academic year as a Predoctoral Fellow at the [Center for the Study of Democratic Institutions](https://www.vanderbilt.edu/csdi/){:target="_blank"} at Vanderbilt University.  
+<div class="row justify-content-center photo-row">
+  <div class="col-sm-3 text-center"><img class="img-fluid rounded" src="/assets/img/cat_couch.jpg"></div>
+  <div class="col-sm-3 text-center"><img class="img-fluid rounded" src="/assets/img/cat_box.jpg"></div>
+  <div class="col-sm-3 text-center"><img class="img-fluid rounded" src="/assets/img/cat_reach.jpg"></div>
+</div>
 
-I study how salient events interact with voters’ partisan attachments to shape elections and public opinion in the United States. In particular, my research focuses on those voters who live closest to focusing events, are exposed to salient policy changes, and or whose local communities experience worsening policy outcomes. 
+I'm a fan of board games and TTRPGs. (Special plug for "Calamity" from Critical Role and "A Crown of Candy" from Dimension 20.) I currently play in a weekly Pathfinder game with friends here in Reno and in a weekly Dungeons and Dragons game online with friends around the country. Over the years I've played...
 
-In my research, I apply rigorous causal inference techniques to large-scale survey data and administrative databases while using survey experiments to test specific mechanisms and scope conditions. My dissertation work is supported by a Doctoral Dissertation Fellowship from the [Rapoport Family Foundation](https://www.rapoportfamilyfoundation.com). I am also a member of [the Practical Causal Inference  Lab](https://www.practicallycausal.com).
+* Druthig, a Svirfneblin Rogue from [Blingdenstone](https://forgottenrealms.fandom.com/wiki/Blingdenstone){:target="_blank"}
+* Quiz, an Eladrin wizard from Malum
+* Matthew, a human Ranger from [Berdusk](https://forgottenrealms.fandom.com/wiki/Berdusk){:target="_blank"}
+* Tristan, an aasimar wizard from Arcadia
+* Steve, a human animist from [Cassomir](https://pathfinderwiki.com/wiki/Cassomir){:target="_blank"}
 
-I am particularly interested in research at the intersection of politics and public health. I have experience collaborating across disciplinary boundaries, including with researchers in medicine, public health, and psychology. I am currently part of the UCLA Health and Politics Project, an interdisciplinary collaboration between social scientists and medical doctors at UCLA and Harvard. I have also published collaborative work with researchers at the Centers for Disease Control. Prior to graduate school, I worked at the [AIDS Institute](https://www.health.ny.gov/diseases/aids/){:target="_blank"} (New York State Department of Health) and at [Memorial Sloan Kettering Cancer Center](https://www.mskcc.org/){:target="_blank"}.
-
-My CV is available [here](/assets/pdf/baxter_king_cv.pdf){:target="_blank"}. The syllabus for a course that I developed and  taught in 2022 and 2024, "Health, Politics, and Culture: Medicare and Medicaid Policy," [is also available](/assets/pdf/medicare_and_medicaid_syllabus.pdf){:target="_blank"}.
-
+Thanks to some excellent research by a friend the week they were adopted, the names ["Fiz"](https://dragonlance.fandom.com/wiki/Fizban_the_Fabulous) and ["Enzo"](https://forgottenrealms.fandom.com/wiki/Menzoberranzan) are inspired by either a dragon or dungeon from classic D&D settings.
