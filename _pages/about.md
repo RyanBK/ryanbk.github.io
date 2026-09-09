@@ -16,10 +16,12 @@ I live in Reno, Nevada with my two cats, Fiz and Enzo. While I'm originally from
 
 I'm a fan of board games and TTRPGs. (Special plug for "Calamity" from Critical Role and "A Crown of Candy" from Dimension 20.) I currently play in a weekly Pathfinder game with friends here in Reno and in a weekly Dungeons and Dragons game online with friends around the country. Over the years I've played...
 
-* Druthig, a paranoid Svirfneblin Rogue from [Blingdenstone](https://forgottenrealms.fandom.com/wiki/Blingdenstone){:target="_blank"}
-* Quiz, a kleptomaniac Eladrin wizard from Malum
-* Matthew, a [Zhentarim](https://forgottenrealms.fandom.com/wiki/Zhentarim){:target="_blank"} human Ranger from [Berdusk](https://forgottenrealms.fandom.com/wiki/Berdusk){:target="_blank"}
-* Tristan, a bladesinger aasimar wizard from Arcadia
-* Steve, a human animist from [Cassomir](https://pathfinderwiki.com/wiki/Cassomir){:target="_blank"}
+* Quiz, a kleptomaniac eladrin illusionist from Malum
+* Druthig, a paranoid svirfneblin rogue from [Blingdenstone](https://forgottenrealms.fandom.com/wiki/Blingdenstone){:target="_blank"}
+* Beryl, a hot-headed changeling druid from Nar Meeadu
+* Matthew, a [Zhentarim](https://forgottenrealms.fandom.com/wiki/Zhentarim){:target="_blank"} human ranger from [Berdusk](https://forgottenrealms.fandom.com/wiki/Berdusk){:target="_blank"}
+* Tristan, a doctrinaire aasimar wizard from Arcadia
+* Alder, an impertinent automaton sorcerer from Malum
+* Steve, a haunted human animist from [Cassomir](https://pathfinderwiki.com/wiki/Cassomir){:target="_blank"}
 
-Thanks to some excellent research by a friend the week they were adopted, the names ["Fiz"](https://dragonlance.fandom.com/wiki/Fizban_the_Fabulous) and ["Enzo"](https://forgottenrealms.fandom.com/wiki/Menzoberranzan) are inspired by either a dragon or dungeon from classic D&D settings.
+Thanks to some excellent research by a friend the week they were adopted, the names ["Fiz"](https://dragonlance.fandom.com/wiki/Fizban_the_Fabulous){:target="_blank"} and ["Enzo"](https://forgottenrealms.fandom.com/wiki/Menzoberranzan){:target="_blank"} are inspired by either a dragon or dungeon from classic D&D settings.
