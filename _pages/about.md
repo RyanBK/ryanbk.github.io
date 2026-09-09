@@ -14,7 +14,7 @@ I live in Reno, Nevada with my two cats, Fiz and Enzo. While I'm originally from
   <div class="col-sm-3 text-center"><img class="img-fluid rounded" src="/assets/img/cat_reach.jpg"></div>
 </div>
 
-I'm a fan of board games and TTRPGs. (Special plug for "Calamity" from Critical Role and "A Crown of Candy" from Dimension 20.) I currently play in a weekly Pathfinder game with friends here in Reno and in a weekly Dungeons and Dragons game online with friends around the country. Over the years I've played...
+I'm a fan of board games and TTRPGs. (Special plug for "Calamity" from Critical Role and "A Crown of Candy" from Dimension 20.) Every week, I play in an in-person Pathfinder game with friends here in Reno and in an online Dungeons and Dragons game with friends around the country. Over the years I've played...
 
 * Quiz, a kleptomaniac eladrin illusionist from Malum
 * Druthig, a paranoid svirfneblin rogue from [Blingdenstone](https://forgottenrealms.fandom.com/wiki/Blingdenstone){:target="_blank"}
